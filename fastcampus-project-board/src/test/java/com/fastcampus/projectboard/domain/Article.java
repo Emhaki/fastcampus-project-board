@@ -11,4 +11,8 @@ public class Article {
     private String createBy;
     private LocalDateTime modifiedAt;
     private String modifiedBy;
+
+    public static Article of(String newArticle, String newContent, String hashtag) {
+        return null;
+    }
 }
