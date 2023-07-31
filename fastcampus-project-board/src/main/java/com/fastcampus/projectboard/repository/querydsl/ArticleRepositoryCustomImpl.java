@@ -1,3 +1,4 @@
+/*
 package com.fastcampus.projectboard.repository.querydsl;
 
 import com.fastcampus.projectboard.domain.Article;
@@ -25,3 +26,4 @@ public class ArticleRepositoryCustomImpl extends QuerydslRepositorySupport imple
         return null;
     }
 }
+*/

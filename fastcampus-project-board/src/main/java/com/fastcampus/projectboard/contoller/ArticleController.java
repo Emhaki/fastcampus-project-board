@@ -18,11 +18,11 @@ public class ArticleController {
         return "articles/index";
     }
 
-    @GetMapping("/{articleId}")
+    /*@GetMapping("/{articleId}")
     public String article(@PathVariable Long articleId, ModelMap map) {
         map.addAttribute("article", List.of());
         map.addAttribute("articleComments", List.of());
 
         return "articles/detail";
-    }
+    }*/
 }

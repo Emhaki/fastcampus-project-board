@@ -1,3 +1,4 @@
+/*
 package com.fastcampus.projectboard.service;
 
 import com.fastcampus.projectboard.dto.ArticleCommentDto;
@@ -21,3 +22,4 @@ public class ArticleCommentService {
         return List.of();
     }
 }
+*/
